@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes retail sales data using SQL to uncover business insights related to customer behavior, product performance, and sales trends.
+This project analyzes retail sales data using SQL to uncover business insights related to customer behavior, product performance, and sales trends Imported retail sales data from a CSV dataset into MySQL.
 
 ## Tools Used
 - SQL Workbench
@@ -14,7 +14,6 @@ This project analyzes retail sales data using SQL to uncover business insights r
 - GROUP BY
 - HAVING
 - JOINS
-
 - Window Functions
 - Subqueries
 
