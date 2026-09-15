@@ -1,30 +1,48 @@
-# Retail-Analytics-SQL
+# Retail Analytics SQL
 
 ## Project Overview
 
-This project analyzes retail sales data using SQL to uncover business insights related to customer behavior, product performance, and sales trends Imported retail sales data from a CSV dataset into MySQL.
+This project analyzes retail sales data using SQL to understand sales performance, customer behavior, and product trends.
+
+The dataset was imported from a CSV file into MySQL, and SQL queries were used to perform data cleaning, analysis, and generate business insights.
 
 ## Tools Used
+
+- MySQL
 - SQL Workbench
+- CSV Dataset
 
 ## SQL Concepts Used
 
 - SELECT
 - WHERE
 - GROUP BY
-- HAVING
-- JOINS
-- Window Functions
+- ORDER BY
+- Aggregate Functions
+- JOIN
+- CASE
 - Subqueries
+- CTEs
+- Window Functions
+- Date Functions
 
-## Business Questions Solved
+## Analysis Performed
 
-- Top Selling Products
-- Monthly Sales Trend
-- Customer Loyalty
-- Repeat Customers
-- Average Order Value
+- Analyzed overall sales and transaction data
+- Identified top-performing products
+- Analyzed sales by product category
+- Studied customer purchasing behavior
+- Analyzed sales trends over time
+- Calculated average sales and other key metrics
+- Identified high-value customers
+- Used SQL window functions for advanced analysis
 
-## Author
+## Key Insights
 
-Mohammad Jafar
+The analysis helped identify sales patterns, top-performing products, and customer purchasing trends.
+
+The results provide useful insights into product performance and overall retail sales behavior.
+
+## Conclusion
+
+This project helped me apply SQL to a real-world retail dataset and practice data cleaning, data analysis, and extracting business insights from raw data.
